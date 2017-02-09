@@ -1,0 +1,14 @@
+{
+  "name": "dashboard_us_takeyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seiichi <takeyan.g@gmail.com> (http://takeyan.xyz)",
+  "license": "MIT",
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  }
+}
